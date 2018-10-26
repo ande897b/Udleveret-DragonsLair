@@ -15,6 +15,7 @@ namespace DragonsLair
              * TODO: Calculate for each team how many times they have won
              * Sort based on number of matches won (descending)
              */
+
             Console.WriteLine("Implement this method!");
         }
 
